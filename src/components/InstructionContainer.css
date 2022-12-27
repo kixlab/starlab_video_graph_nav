@@ -1,0 +1,20 @@
+.instruction_container {
+    width: 90%;
+    height: 500px; 
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 10px;
+}
+  
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: rgba(0,0,0,.5);
+    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+}

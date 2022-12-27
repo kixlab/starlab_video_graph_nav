@@ -1,0 +1,25 @@
+.instruction_wrapper {
+    width: 400px; 
+    height: 300px;
+    display: inline-block;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 20px;
+}
+
+.script {
+    width: 100%;
+    height: 30%;
+    border-radius: 20px;
+    text-align: justify;
+    margin-left: auto;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-right: 7%;
+    padding-left: 7%;
+    vertical-align: top;
+    font-size: 120%;
+    white-space: normal;
+    overflow: scroll;
+    border: 7px solid #F5A7A6;
+}
